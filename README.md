@@ -20,5 +20,9 @@ Things you may want to cover:
 - Services (job queues, cache servers, search engines, etc.)
 
 - Deployment instructions
+    - Initial Setup
+        - heroku create
+        - heroku rename
+        - heroku keys:add
 
 - ...
